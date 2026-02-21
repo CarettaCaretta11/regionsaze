@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(python3:*)",
+      "Bash(ls:*)",
+      "Bash(source:*)",
+      "Bash(nvm use:*)",
+      "Bash(npx tsc:*)"
+    ]
+  }
+}
